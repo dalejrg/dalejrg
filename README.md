@@ -1,7 +1,7 @@
 ### Hola, soy Dayana 👋
 ![Banner perfil GitHub](https://github.com/dalejrg/dalejrg/blob/main/banner-readme.gif)
 
-✨Desde pequeña siempre quise demostrar que como mujer soy capaz de cualquier cosa 👸🏻 y mis habilidades e intereses en el mundo tech me llevaron a convertirme en Front End Developer💻, y aunque este es el principio del camino espero poder aportar mucho más en la industria que generalmente es conocida como un campo para hombres. Actualmente he participado en diferentes proyectos, en los cuales pude aprender y desarrollar diferentes tecnologías como: HTML, Javascript, CSS y React.✨
+✨Desde pequeña siempre quise demostrar que como mujer soy capaz de cualquier cosa 👸🏻 y mis habilidades e intereses en el mundo tech me llevaron a convertirme en Front End Developer💻, y aunque este es el principio del camino espero poder aportar mucho más en la industria que generalmente es conocida como un campo para hombres. Actualmente he participado en diferentes proyectos, en los cuales pude aprender y desarrollar diferentes tecnologías como: HTML, Javascript, CSS y React con TS.✨
 
 Estudiante de Laboratoria < L >
   
