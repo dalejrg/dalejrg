@@ -9,7 +9,7 @@ Egresada de Laboratoria < L >
   
 **Email**: dayanarodriguez120@gmail.com
   
-**LinkedIn**: [Dayana Rodriguez Guzman](https://www.linkedin.com/in/dayana-rodr%C3%ADguez-guzm%C3%A1n-b3381b214/)
+**LinkedIn**: [Dayana Rodriguez Guzman](https://www.linkedin.com/in/dayana-rodr%C3%ADguez-guzm%C3%A1n-b3381b214/](https://www.linkedin.com/in/dayana-rodriguez-guzman-b3381b214/)
   
 
 <!--
