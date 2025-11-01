@@ -25,11 +25,13 @@ Me especializo en **React, TypeScript y Next.js**, con un enfoque en **diseño d
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-764ABC?logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styledcomponents&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 </div>
 
@@ -61,8 +63,8 @@ Me especializo en **React, TypeScript y Next.js**, con un enfoque en **diseño d
 ### 🎓 Educación y Certificaciones
 
 🎓 **Universidad de San Buenaventura** – Tecnología en Desarrollo de Software (2021–2025)  
-🎓 **Laboratoria Bootcamp** – Especialización en Desarrollo Web Front-End
-🎓 **Universidad de San Buenaventura** – Diplomado en diseño e implementación web a partir de proyectos.
+🎓 **Laboratoria Bootcamp** – Especialización en Desarrollo Web Front-End (2021)  
+🎓 **Diplomado en Diseño e Implementación Web a partir de proyectos** – Universidad de San Buenaventura (2020)  
 
 📜 **Certificaciones Relevantes:**
 - React: De Cero a Experto (Hooks y MERN)  
