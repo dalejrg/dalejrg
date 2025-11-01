@@ -61,13 +61,15 @@ Me especializo en **React, TypeScript y Next.js**, con un enfoque en **diseño d
 ### 🎓 Educación y Certificaciones
 
 🎓 **Universidad de San Buenaventura** – Tecnología en Desarrollo de Software (2021–2025)  
-🎓 **Laboratoria Bootcamp** – Especialización en Desarrollo Web Front-End  
+🎓 **Laboratoria Bootcamp** – Especialización en Desarrollo Web Front-End
+🎓 **Universidad de San Buenaventura** – Diplomado en diseño e implementación web a partir de proyectos.
 
 📜 **Certificaciones Relevantes:**
 - React: De Cero a Experto (Hooks y MERN)  
 - Clean Code y Buenas Prácticas con JavaScript  
 - Fundamentos de Microsoft Azure (AZ-900)  
-- Fundamentos de AI y Machine Learning  
+- Fundamentos de AI y Machine Learning
+- Curso de introducción a Inteligencia Artificial 
 - Scrum Profesional  
 
 ---
